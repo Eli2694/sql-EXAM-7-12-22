@@ -96,14 +96,3 @@ or Country = 'Canada'
 
 
 
-
-
-
-select *
-from Products;
-select *
-from [Order Details];
-select *
-from Customers;
-
-
